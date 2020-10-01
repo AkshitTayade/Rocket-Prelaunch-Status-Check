@@ -27,7 +27,7 @@ After giving various Technical and Weather condition before prelaunch, Model pre
 * Rocket velocity
 <br>
 
-## This project can be performed in 4 steps :
+## This project can be performed in 3 steps :
 
 ### 1. Data Pre-processing 
 
@@ -45,3 +45,12 @@ Finally we have clean float type dataset available with us. But we do not need s
 ### 2. Training and Testing split
 
 * Now that our data is completely processed, split it into 75-25% format. 75% for training and rest for testing.
+
+### 3. Model Training & Predictions
+
+The process of dividing the datasets into different categories or groups by adding labels is called Classification method. The classification methods used are:
+*	Random Forest ( accuracy = 98.33 )
+*	KNN ( accuracy = 91.0 )
+
+As RandomForest has given us the best result, we can even test it using user’s input.
+
