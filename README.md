@@ -52,5 +52,5 @@ The process of dividing the datasets into different categories or groups by addi
 *	Random Forest ( accuracy = 98.33 )
 *	KNN ( accuracy = 91.0 )
 
-As RandomForest has given us the best result, we can even test it using user’s input.
+*As RandomForest has given us the best result, we can even test it using user’s input.*
 
