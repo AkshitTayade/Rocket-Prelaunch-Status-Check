@@ -30,7 +30,7 @@ After giving various Technical and Weather condition before prelaunch, Model pre
 
 ### 1. Data Pre-processing 
 
-##### *	Data Cleaning <br>
+##### *	Data Cleaning 
 Firstly we do some data exploration of our dataset. After looking at dataset, we find missing values in lot of columns. 
 So the question is how to fill this missing values? 
 We check the information of each individual column.  Then fill the NULL values with appropriate values (i.e. mean or average ).
