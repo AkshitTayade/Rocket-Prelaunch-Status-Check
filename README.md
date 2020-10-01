@@ -5,6 +5,12 @@ https://www.nasa.gov/centers/kennedy/news/releases/2003/release-20030128.html
 <img align="right" alt="GIF" src="https://github.com/AkshitTayade/Rocket-Prelaunch-Status-Check/blob/master/media/main.gif" width="600" height="400" />
 
 ### What is this project about ?
-*	How Machine Learning can be used in Space?
-*	The challenges weather can pose on rocket launches. 
+* How Machine Learning can be used in Space?
+* The challenges weather can pose on rocket launches. 
+
+### Space Centres collects data from a wide range of sources, including:
+*	NOAA Weather
+*	Satellite imagery
+*	Remote sensors
+*	Weather pattern experts
 
