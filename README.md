@@ -3,4 +3,6 @@ After giving various Technical and Weather condition before prelaunch, Model pre
 
 https://www.nasa.gov/centers/kennedy/news/releases/2003/release-20030128.html
 
-<img align="right" alt="GIF" src="https://github.com/AkshitTayade/Rocket-Prelaunch-Status-Check/blob/master/media/main.gif" width="600" height="400" />
+<p align="center">
+  <img alt="GIF" src="https://github.com/AkshitTayade/Rocket-Prelaunch-Status-Check/blob/master/media/main.gif" width="600" height="400" />
+</p>
