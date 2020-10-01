@@ -16,8 +16,9 @@ After giving various Technical and Weather condition before prelaunch, Model pre
 <br>
 
 > #### Nasa has a documentation on  Weather Launch Commit Criteria which can be read [here](https://www.nasa.gov/centers/kennedy/news/releases/2003/release-20030128.html)
+<br>
 
-### Some key factors that dataset takes into account regarding launches are
+### Some key factors that dataset takes into account regarding launches are:
 * Surface electric field
 * Temperature during Launch time
 * Weather Conditions
