@@ -6,3 +6,8 @@ https://www.nasa.gov/centers/kennedy/news/releases/2003/release-20030128.html
 <p align="right">
   <img alt="GIF" src="https://github.com/AkshitTayade/Rocket-Prelaunch-Status-Check/blob/master/media/main.gif" width="600" height="400" />
 </p>
+
+### What is this project about ?
+*	How Machine Learning can be used in Space?
+*	The challenges weather can pose on rocket launches. 
+
