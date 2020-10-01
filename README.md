@@ -25,8 +25,9 @@ After giving various Technical and Weather condition before prelaunch, Model pre
 * Cloud temperature
 * Precipitation intensity
 * Rocket velocity
+<br>
 
-## This project will be performed in 4 steps :
+## This project can be performed in 4 steps :
 
 ### 1. Data Pre-processing 
 
