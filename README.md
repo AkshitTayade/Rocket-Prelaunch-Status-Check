@@ -14,5 +14,4 @@ After giving various Technical and Weather condition before prelaunch, Model pre
 *	Weather pattern experts
 
 <br>
-
 > #### Nasa has a documentation on  Weather Launch Commit Criteria which can be read [here](https://www.nasa.gov/centers/kennedy/news/releases/2003/release-20030128.html)
