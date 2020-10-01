@@ -1,7 +1,7 @@
 # Rocket-Prelaunching-Status
 After giving various Technical and Weather condition before prelaunch, Model predict if its suitable for GO-NO GO launch for rockets.
 
-<img align="right" alt="GIF" src="https://github.com/AkshitTayade/Rocket-Prelaunch-Status-Check/blob/master/media/main.gif" width="600" height="400" />
+<img align="right" alt="GIF" src="https://github.com/AkshitTayade/Rocket-Prelaunch-Status-Check/blob/master/media/main.gif" width="500" height="300" />
 
 ### What is this project about ?
 * How Machine Learning can be used in Space?
