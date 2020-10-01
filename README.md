@@ -42,3 +42,6 @@ Now that we have complete dataset ready. Some of the columns are in string forma
 *	Data Reduction
 Finally we have clean float type dataset available with us. But we do not need some columns as they make no significant impact on data patterns. So we will eliminate them.
 
+### 2. Training and Testing split
+
+* Now that our data is completely processed, split it into 75-25% format. 75% for training and rest for testing.
